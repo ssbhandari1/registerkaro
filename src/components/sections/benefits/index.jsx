@@ -20,7 +20,7 @@ const Benefits = () => {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            <div className="bg-[#FEF3EF] h-full rounded-lg p-2 flex flex-col items-center justify-center text-white text-xl font-semibold">
+            <div className="bg-[#FEF3EF] h-full rounded-lg p-3 flex flex-col items-center justify-center text-white text-xl font-semibold">
               <div className="mb-4">
               <IoMdCheckmarkCircle className="text-[#3DCD5C] text-3xl"/>
               </div>
@@ -39,8 +39,7 @@ const Benefits = () => {
             </div>
             <h3 className="text-xl font-bold mb-2 text-black">Confidential and Safe</h3>
             <p className="text-base text-center text-[#666666]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-              voluptas incidunt quidem.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </p>
           </div>
           <div className="bg-[#FEF3EF] h-full rounded-lg p-2 flex flex-col items-center justify-center text-white text-xl font-semibold">
@@ -49,7 +48,8 @@ const Benefits = () => {
             </div>
             <h3 className="text-xl font-bold mb-2 text-black">Confidential and Safe</h3>
             <p className="text-base text-center text-[#666666]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            All your private information is safe
+            with us
             </p>
           </div>
           <div className="bg-[#FEF3EF] h-full rounded-lg p-2 flex flex-col items-center justify-center text-white text-xl font-semibold">
